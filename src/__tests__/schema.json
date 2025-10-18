@@ -1,0 +1,181 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "iPad 11\" (2025) 11e generatie 128 GB - WiFi - Blauw",
+    "description": "iPad Apple iPad 11 (2025, A16 series) ✌ Tot 70% goedkoper dan nieuw ✅ Gratis verzending ✅ Goedkoop iPad ✅ 12 jaar garantie ✅ 30 dagen om van gedachten te veranderen",
+    "image": "https://d2e6ccujb3mkqf.cloudfront.net/a19ee603-ae1c-4646-9faf-ad61857c202c-1_8713042d-7207-42a8-a5e4-546a4ad2db60.jpg",
+    "color": "Blauw",
+    "storage": "128 GB",
+    "brand": {
+        "@type": "Brand",
+        "name": "Apple"
+    },
+    "offers": {
+        "@type": "Offer",
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "http://schema.org/RefurbishedCondition",
+        "priceCurrency": "EUR",
+        "price": "315.00",
+        "seller": {
+            "@type": "Organization",
+            "name": "Back Market"
+        },
+        "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "applicableCountry": "NL",
+            "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 30,
+            "returnMethod": "https://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/FreeReturn"
+        },
+        "shippingDetails": [
+            {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": 0,
+                    "currency": "EUR"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "addressCountry": "NL"
+                },
+                "deliveryTime": {
+                    "@type": "ShippingDeliveryTime",
+                    "handlingTime": {
+                        "@type": "QuantitativeValue",
+                        "minValue": 1,
+                        "maxValue": 3,
+                        "unitCode": "DAY"
+                    },
+                    "transitTime": {
+                        "@type": "QuantitativeValue",
+                        "minValue": 3,
+                        "maxValue": 4,
+                        "unitCode": "DAY"
+                    }
+                }
+            },
+            {
+                "@type": "OfferShippingDetails",
+                "shippingRate": {
+                    "@type": "MonetaryAmount",
+                    "value": "5",
+                    "currency": "EUR"
+                },
+                "shippingDestination": {
+                    "@type": "DefinedRegion",
+                    "addressCountry": "NL"
+                },
+                "deliveryTime": {
+                    "@type": "ShippingDeliveryTime",
+                    "handlingTime": {
+                        "@type": "QuantitativeValue",
+                        "minValue": 1,
+                        "maxValue": 2,
+                        "unitCode": "DAY"
+                    },
+                    "transitTime": {
+                        "@type": "QuantitativeValue",
+                        "minValue": 2,
+                        "maxValue": 3,
+                        "unitCode": "DAY"
+                    }
+                }
+            }
+        ]
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4.74,
+        "reviewCount": 976,
+        "bestRating": 5,
+        "worstRating": 1
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Teodora P."
+            },
+            "reviewBody": "extremely quick and efficient! the ipad came in it's original packaging and I have been loving it! this is my first apple product so I'm still discovering new things I can use it for. I wouldn't have thought it was refurbished and not brand new. Highly recommend!"
+        },
+        {
+            "@type": "Review",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Pierre V."
+            },
+            "reviewBody": "refurbished maar ik zie het verschil niet met nieuw, ik heb er 3 gekocht, allemaal perfect, super tevreden\n"
+        },
+        {
+            "@type": "Review",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 4
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Esther S."
+            },
+            "reviewBody": "Ik bestelde een Premium iPad, maar Premium blijkt hier allesbehalve Premium te zijn. De doos was beschadigd, er zat alleen een kabel bij (geen stekkerblok) en het verschil met Conditie Goed is simpelweg nul. Feitelijk betaal je extra voor een beschadigde doos en een mooi label. Dat voelt misleidend, ondermijnt vertrouwen en maakt dit Premiumlabel ongeloofwaardig."
+        },
+        {
+            "@type": "Review",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Fatima T."
+            },
+            "reviewBody": "Het was zo goed als nieuw, het kwam ook in een box met de oplader (alleen de kabel, geen kop) erbij. Er was helemaal geen teken was beschadiging dus ik ben heel blij en tevreden met deze aankoop."
+        },
+        {
+            "@type": "Review",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ray D."
+            },
+            "reviewBody": "Makkelijk besteld, snel geleverd, ipad ziet er echt perfect uit."
+        },
+        {
+            "@type": "Review",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Henny V."
+            },
+            "reviewBody": "Ik ben zeer tevreden met het bestellen,maar ook hoe de iPad werkt 👍"
+        },
+        {
+            "@type": "Review",
+            "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": 5
+            },
+            "author": {
+                "@type": "Person",
+                "name": "Ayhan D."
+            },
+            "reviewBody": "Goed"
+        }
+    ]
+}
